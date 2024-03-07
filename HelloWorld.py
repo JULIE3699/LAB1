@@ -1,1 +1,1 @@
-print( "ET0735 -DEVOps")
+print( "ET0735 -DEVOps  for AIoT")
